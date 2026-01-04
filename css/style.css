@@ -36,8 +36,9 @@ body {
     height: auto;
     position: static;
     padding-bottom: 300px ;
-    margin-top: -170px;
+    margin-top: 25px;
     border-radius: 15px;
+    
 }
 
 #canais h2 {
